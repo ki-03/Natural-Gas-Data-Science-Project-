@@ -25,6 +25,10 @@ Python (Pandas, NumPy, SciPy)
 
 Data visualization libraries (Matplotlib)
 
+
+
+To see a step-by-step overview of the project, including observations, visual insights, and model evaluation, refer to the (Nat Gas Report.pdf).
+
 Time series analysis and interpolation techniques
 
 Outcome:
